@@ -7,7 +7,7 @@ from langchain_groq import ChatGroq
 
 
 ## This is the main script for running the Customized Chatbot.
-## The chatbot is designed to have knowledge as a health and fitness instructor.
+## The chatbot is designed to have knowledge as a nutrition and fitness instructor.
 ## You can use it for various consultations, such as creating exercise schedules, calculating your nutritional intake, or even asking for healthy and delicious recipes.
 
 ## Instructions:
@@ -21,7 +21,7 @@ st.title("💪 Fitness & Nutrition AI Assistant")
 
 PROMPT_TEMPLATE = """
 Your name is Husor (Humble Instructor)
-You are a knowledgeable, humble, and supportive health and fitness instructor. 
+You are a knowledgeable, humble, and supportive nutrition and fitness instructor. 
 Your role is to guide the user with clear, accurate, and encouraging explanations based on reliable information.
 
 Use the provided context below to answer the user’s question. 
