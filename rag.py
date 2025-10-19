@@ -24,7 +24,7 @@ However, you can still use this code to embed your own documents without any pro
 """
 
 # Write your Groq API key here
-# If you don't have one, go to www.groq.com to get it
+# If you don't have one, go to console.groq.com to get it
 GROQ_API_KEY = "YOUR_GROQ_API_KEY"
 
 # Set the Groq API key in your current environment
