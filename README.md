@@ -76,6 +76,7 @@ Try asking questions like:
 ```
 health_and_fitness_ai_assistent/
 ├── app.py                    # Main Streamlit application
+├── rag.py                    # RAG to build vector database
 ├── faiss_index/              # Pre-built vector database
 │   ├── index.faiss          # FAISS vector index
 │   └── index.pkl            # Document store
