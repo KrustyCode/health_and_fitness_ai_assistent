@@ -80,7 +80,6 @@ health_and_fitness_ai_assistent/
 │   ├── index.faiss          # FAISS vector index
 │   └── index.pkl            # Document store
 ├── README.md                 # This file
-└── requirements.txt          # (Optional) Package dependencies
 ```
 
 ## ⚙️ Technical Details
